@@ -1,0 +1,8 @@
+{
+  "name": "Twilio-Capacitor-Cordova",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

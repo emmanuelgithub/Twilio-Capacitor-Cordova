@@ -1,0 +1,14 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Twilio-Capacitor-Cordova",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"cordova": {
+		"preferences": {
+			"INCOMING_CALL_APP_NAME": "twilio",
+			"ENABLE_CALL_KIT": false,
+			"MASK_INCOMING_PHONE_NUMBER": false,
+			"PACKAGE_NAME": "io.ionic.starter"
+		}
+	}
+}
